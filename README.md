@@ -7,8 +7,12 @@
 <h2 align="center">Technologies/Tools/Languages</h2>
 
 <table align="center">
-  <th>Languages</th><th>Tools</th>
+  <th>Technologies</th><th>Languages</th><th>Tools</th>
   <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows">
+      <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux">
+    </td>
     <td>
       <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C">
       <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B">
@@ -20,9 +24,6 @@
       <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux">
-      <img src="https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows">
-      <br/>
       <img src="https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=GNU-Bash">
       <img src="https://img.shields.io/badge/-ZSH-000000?style=for-the-badge&logo=ZSH">
       <br/>
