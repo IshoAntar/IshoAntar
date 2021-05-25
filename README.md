@@ -34,9 +34,14 @@
 </p>
 <hr/>
 <h2 align="center">Stats</h2>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IshoAntar&show_icons=true&include_all_commits=true&theme=tokyonight"/>
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshoAntar&theme=tokyonight"/>
-</span>
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=IshoAntar&show_icons=true&include_all_commits=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshoAntar&theme=tokyonight)
+  
+  ---
+  
+  ![Joke of the day](https://readme-jokes.vercel.app/api?theme=tokyonight)
+  
+</div>
