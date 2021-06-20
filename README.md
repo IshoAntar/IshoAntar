@@ -6,9 +6,9 @@
 
   ## Technologies/Tools/Languages
 
-  | Technologies        | Languages                                          | Tools                 |
-  |---------------------|----------------------------------------------------|-----------------------|
-  | ![WINDOWS] ![LINUX] | ![C] ![C++] ![JAVA] ![HTML5] ![CSS3] ![PHP] ![SQL] | ![BASH] ![ZSH] ![GIT] |
+  | Technologies        | Languages                                          | Tools                         |
+  |---------------------|----------------------------------------------------|-------------------------------|
+  | ![WINDOWS] ![LINUX] | ![C] ![C++] ![JAVA] ![HTML5] ![CSS3] ![PHP] ![SQL] | ![BASH] ![ZSH] ![FISH] ![GIT] |
 
   ## Stats
 
@@ -34,3 +34,4 @@
 [BASH]: https://img.shields.io/badge/-BASH-000000?style=for-the-badge&logo=GNU-Bash
 [ZSH]: https://img.shields.io/badge/-ZSH-000000?style=for-the-badge&logo=ZSH
 [GIT]: https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git
+[FISH]: https://img.shields.io/badge/-Fish-000000?style=for-the-badge&logo=Fish
