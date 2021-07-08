@@ -1,19 +1,20 @@
 <div align="center">
 
-  # Hey there, Welcome!
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IshoAntar.Visitors)
-
+  # Hey there, Welcome! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IshoAntar.Visitors)
+  
   ## Technologies/Tools/Languages
 
   | Technologies                  | Languages                                          | Tools                         |
   |-------------------------------|----------------------------------------------------|-------------------------------|
   | ![WINDOWS] ![LINUX] ![DOCKER] | ![C] ![C++] ![JAVA] ![HTML5] ![CSS3] ![PHP] ![SQL] | ![BASH] ![ZSH] ![FISH] ![GIT] |
+  
+  ## Repos worth checking out 
 
+  [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)
+  
   ## Stats
 
   ![Stats](https://github-readme-stats.vercel.app/api?username=IshoAntar&show_icons=true&include_all_commits=true&theme=tokyonight)
-
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshoAntar&theme=tokyonight)
 
   ---
