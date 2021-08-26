@@ -36,4 +36,4 @@
 [ZSH]: https://img.shields.io/badge/ZSH-⭐⭐⭐⭐☆-000000?style=for-the-badge&logo=ZSH
 [GIT]: https://img.shields.io/badge/Git-⭐⭐⭐⭐☆-000000?style=for-the-badge&logo=Git
 [FISH]: https://img.shields.io/badge/Fish-⭐⭐⭐⭐☆-000000?style=for-the-badge&logo=Fish
-[DOCKER]: https://img.shields.io/badge/Docker-⭐☆☆☆☆-000000?style=for-the-badge&logo=Docker
+[DOCKER]: https://img.shields.io/badge/Docker-⭐⭐☆☆☆-000000?style=for-the-badge&logo=Docker
